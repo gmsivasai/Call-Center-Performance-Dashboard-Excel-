@@ -1,5 +1,3 @@
-.
-
 📊 Call Center Performance Dashboard – 2023 (Excel)
 📌 Project Overview
 
